@@ -1,0 +1,6 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ScriptsForDays/107b5448995f1f5bb92ac511bb2b2570/raw/9f0663c13dff2e5168f83ad02b3407613ac2747b/Ink-GameV1"))()
+loadstring(game:HttpGet("https://pastefy.app/ULaWpxKm/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PlayzlxD0tmatter/INK-GAME/refs/heads/main/ZEROINKGAME.md"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/InkGame"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/leftpapi/Left-Ink/main/LeftInk.lua"))()
